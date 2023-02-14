@@ -19,7 +19,7 @@ const Clock = () => {
     return (
         <div>
             <h2>
-                Hora actual: { fecha.toLocaleTimeStrin()}
+                Hora actual: { fecha.toLocaleTimeString()}
             </h2>
             <h3>
                 {nombre} {apellidos}
